@@ -28,7 +28,7 @@ Dragon Radar for Hiccup's Legacy — это utility-addon для Minecraft Forge
 
 ### Установка
 1. Установить Forge 1.20.1
-2. Установить Hiccups Legacy 2.0.0 required
+2. Установить Hiccups Legacy 2.0.0
 3. Положить мод в папку `mods`
 
 ### Автор
@@ -60,7 +60,7 @@ Dragon Radar for Hiccup's Legacy is a utility addon for Minecraft Forge 1.20.1 a
 ### Requirements
 - Minecraft 1.20.1
 - Forge
-- Hiccups Legacy
+- Hiccups Legacy 2.0.0
 
 ### Installation
 1. Install Forge 1.20.1
